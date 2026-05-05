@@ -1,8 +1,8 @@
 # Software Supply Chain Attacks: A Comparative Analysis of Log4Shell and the XZ Utils Backdoor
 
-**Course:** Advanced Topics in Cybersecurity  
-**Student:** [Your Name]  
-**Date:** May 2026
+**Course:** Security of Information Systems 
+**Student:** [mostafa khamis abozead]  
+**id:** 23101484
 
 ---
 
